@@ -28,11 +28,9 @@
 
 For the Data Viz course in my current BS., we were requested to develop reports based on different datasets to answer problematics posed by the professors. The reports were built on **RStudio** using **RMarkdown** files and deployed in HTML. The task was exploratory and the focus was on achieving high impact, easy to read and purposeful charts.
 
-![Data Viz]()
 
 ### Simple Process Simulation of a Distillation Column
-[MATLAB code]() - (_currently a WIP, will be attached ASAP_)
+[MATLAB code] - (_currently a WIP, will be attached ASAP_)
 
-Used **Matlab** to model a Distillation Column to show students the possibilities of using programming and other computational tools within the field of Food Engineering. Results were tested against scenarios within the practice module with a 
+Used **Matlab** to model a Distillation Column to show students the possibilities of using programming and other computational tools within the field of Food Engineering. Results were tested against scenarios within the practice module with excellent results and high impact on the students.
 
-![Distillation]()
