@@ -3,38 +3,36 @@
 #### Technical Skills: Google Workspace, Appsheet, Looker Studio, R/RStudio, SQL, Python, MATLAB
 
 ## Education				       		
-- BS. Data Science	| Guillermo Brown National University (_December 2021 - Present_)	 			        		
+- BS. Data Science	| Guillermo Brown National University (_2022 - Present_)	 			        		
 - MS. Food Tech. Engineering | National University of Quilmes (UNQ)
 - MS. Agri-Food Engineering | VetAgro Sup - ARFAGRI Exchange (France) (_Sep 2018_)
 
-## Work Experience - Achievements
+## Work Achievements
 **Data Analyst for Google MCM team @ Cognizant (_February 2023 - Present_)**
-- Rebuilt and corrected calculation on core KPIs, implementing a simplified SOP for data manipulation.
-- Developped an internal consult App through Appsheet to centralize all scattered resources being used, saving the team xx time. 
+- Rebuilt and corrected calculation on core KPIs, implementing a simplified process for data pulls and semi-automated manipulation.
+- Developed an internal Appsheet to merge various processes and resources into a centralized solution, saving the team xx time. 
 
 **MCM Reserve Trilingual Agent on behalf of Google @ Cognizant (_December 2021 - January 2023)**
-- Successfully 
-
-**Museum Guide @ Centro Cultural de la Ciencia (C3) (_April 2019 - October 2021)**
-- 
+- Successfully managed and implemented campaigns for the 2022 World Cup alongside an ad-hoc team of 4 other agents, netting a 10M+ USD revenue while guaranteeing excellence in CX and monitoring data for post-mortem reporting.
 
 **Student TA @ National University of Quilmes (UNQ) (_March 2019 - October 2020_)**
-- Developped special classes dedicated to modelling and resolving common Unit Operations through tools such as MS Excel or MATLAB instead of the traditional pen and paper approach.
+- Led supplementary classes dedicated to modelling and resolving common Unit Operations through tools such as MS Excel or MATLAB instead of the traditional pen and paper approach.
 
-**Formulation & Innovation Analyst @ In'Management (_April 2018 - September 2018)**
-- Planification and excecution of experimental design for exploratory purposes.
+**Formulation & Innovation Analyst @ In'Management (France) (_April 2018 - September 2018)**
+- Planification and excecution of experimental design for exploratory purposes. Entirety of project was handled and excecuted in French.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Data exploration and automated report generation
+[Report #1]()
+[Report #2]()
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+For the Data Viz class, we were requested to develop reports based on different datasets to answer problematics posed by the professors. The reports were built on **RStudio** using **RMarkdown** files and deployed in HTML. The task was exploratory and the focus was on achieving high impact, easy to read and purposeful charts.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Data Viz]()
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Simple Process Simulation of a Distillation Column
+[MATLAB code]() - (_currently a WIP, will be attached ASAP_)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Matlab** to model a Distillation Column to show students the possibilities of using programming and other computational tools within the field of Food Engineering. Results were tested against scenarios within the practice module with a 
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Distillation]()
