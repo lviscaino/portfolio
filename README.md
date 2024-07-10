@@ -18,7 +18,7 @@
 **Student TA @ National University of Quilmes (UNQ) (_March 2019 - October 2020_)**
 - Led supplementary classes dedicated to modelling and resolving common Unit Operations through tools such as MS Excel or MATLAB instead of the traditional pen and paper approach.
 
-**Formulation & Innovation Analyst @ In'Management (France) (_April 2018 - September 2018)**
+**Formulation & Innovation Analyst @ In'Management (France) (_April 2018 - September 2018_)**
 - Planification and excecution of experimental design for exploratory purposes. Entirety of project was handled and excecuted in French.
 
 ## Projects
@@ -27,7 +27,6 @@
 - [Report #2](/assets/VISCAINO_Informe2.html)
 
 For the Data Viz course in my current BS., we were requested to develop reports based on different datasets to answer problematics posed by the professors. The reports were built on **RStudio** using **RMarkdown** files and deployed in HTML. The task was exploratory and the focus was on achieving high impact, easy to read and purposeful charts.
-
 
 ### Simple Process Simulation of a Distillation Column
 [MATLAB code] - (_currently a WIP, will be attached ASAP_)
