@@ -1,4 +1,5 @@
 title: Lucas Viscaino
+description: Data Science Portfolio
 #logo: relative path to image
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal #check supported themes pages.github.com/themes
