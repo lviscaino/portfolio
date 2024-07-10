@@ -1,32 +1,28 @@
 # Data Analyst
 
-#### Technical Skills: Google Workspace, Appsheet, Looker Studio, SQL, Python, MATLAB
+#### Technical Skills: Google Workspace, Appsheet, Looker Studio, R/RStudio, SQL, Python, MATLAB
 
 ## Education				       		
 - BS. Data Science	| Guillermo Brown National University (_December 2021 - Present_)	 			        		
 - MS. Food Tech. Engineering | National University of Quilmes (UNQ)
-- MS. Agri-Food Engineering | VetAgro Sup - Agronomic Campus of Clermont Ferrand (France) (_Aug 2017-Sep 2018_)
+- MS. Agri-Food Engineering | VetAgro Sup - ARFAGRI Exchange (France) (_Sep 2018_)
 
-## Work Experience
+## Work Experience - Achievements
 **Data Analyst for Google MCM team @ Cognizant (_February 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Rebuilt and corrected calculation on core KPIs, implementing a simplified SOP for data manipulation.
+- Developped an internal consult App through Appsheet to centralize all scattered resources being used, saving the team xx time. 
 
 **MCM Reserve Trilingual Agent on behalf of Google @ Cognizant (_December 2021 - January 2023)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Successfully 
 
 **Museum Guide @ Centro Cultural de la Ciencia (C3) (_April 2019 - October 2021)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- 
 
 **Student TA @ National University of Quilmes (UNQ) (_March 2019 - October 2020_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developped special classes dedicated to modelling and resolving common Unit Operations through tools such as MS Excel or MATLAB instead of the traditional pen and paper approach.
 
 **Formulation & Innovation Analyst @ In'Management (_April 2018 - September 2018)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Planification and excecution of experimental design for exploratory purposes.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
