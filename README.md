@@ -12,7 +12,7 @@
 - Rebuilt and corrected calculation on core KPIs, implementing a simplified process for data pulls and semi-automated manipulation.
 - Developed an internal Appsheet to merge various processes and resources into a centralized solution, saving the team xx time. 
 
-**MCM Reserve Trilingual Agent on behalf of Google @ Cognizant (_December 2021 - January 2023)**
+**MCM Reserve Trilingual Agent on behalf of Google @ Cognizant (_December 2021 - January 2023_)**
 - Successfully managed and implemented campaigns for the 2022 World Cup alongside an ad-hoc team of 4 other agents, netting a 10M+ USD revenue while guaranteeing excellence in CX and monitoring data for post-mortem reporting.
 
 **Student TA @ National University of Quilmes (UNQ) (_March 2019 - October 2020_)**
