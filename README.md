@@ -23,8 +23,8 @@
 
 ## Projects
 ### Data exploration and automated report generation
-[Report #1]()
-[Report #2]()
+- [Report #1]()
+- [Report #2]()
 
 For the Data Viz class, we were requested to develop reports based on different datasets to answer problematics posed by the professors. The reports were built on **RStudio** using **RMarkdown** files and deployed in HTML. The task was exploratory and the focus was on achieving high impact, easy to read and purposeful charts.
 
